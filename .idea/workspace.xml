@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a680f1f6-fd50-4f40-9588-e25bb1eaf911" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ExercicioGeral06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ExercicioGeral05">
+  <component name="RunManager" selected="Application.ExercicioGeral06">
     <configuration name="E0x000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E0x000" />
       <module name="java Como Programar Deitel editora" />
@@ -59,8 +60,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExercicioGeral06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioGeral06" />
+      <module name="java Como Programar Deitel editora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioGeral06" />
         <item itemvalue="Application.ExercicioGeral05" />
         <item itemvalue="Application.ExercicioGeral04" />
         <item itemvalue="Application.E0x000" />
@@ -108,40 +117,43 @@
     <option name="LAST_COMMIT_MESSAGE" value="criate ExercicioGeral05" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="178" y="23" key="CommitChangelistDialog2" timestamp="1632280133006">
-      <screen x="0" y="23" width="1280" height="732" />
+    <state x="178" y="23" key="CommitChangelistDialog2" timestamp="1632334766747">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state x="178" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1632279488140" />
+    <state x="178" y="23" key="CommitChangelistDialog2/0.23.1280.729@0.23.1280.729" timestamp="1632334766747" />
     <state x="178" y="23" key="CommitChangelistDialog2/0.23.1280.732@0.23.1280.732" timestamp="1632280133006" />
-    <state width="1238" height="151" key="GridCell.Tab.0.bottom" timestamp="1632284504459">
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1632353757437">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="151" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1632284504459" />
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1632353757437" />
     <state width="1210" height="128" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1632276123728" />
-    <state width="1238" height="151" key="GridCell.Tab.0.center" timestamp="1632284504457">
+    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1632353757435">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="151" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1632284504457" />
+    <state width="1238" height="177" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1632353757435" />
     <state width="1210" height="128" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1632276123727" />
-    <state width="1238" height="151" key="GridCell.Tab.0.left" timestamp="1632284504456">
+    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1632353757433">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="151" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1632284504456" />
+    <state width="1238" height="177" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1632353757433" />
     <state width="1210" height="128" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1632276123726" />
-    <state width="1238" height="151" key="GridCell.Tab.0.right" timestamp="1632284504458">
+    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1632353757436">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="151" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1632284504458" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1632353757436" />
     <state width="1210" height="128" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1632276123728" />
-    <state x="254" y="116" key="Vcs.Push.Dialog.v2" timestamp="1632280146626">
-      <screen x="0" y="23" width="1280" height="732" />
+    <state x="254" y="116" key="Vcs.Push.Dialog.v2" timestamp="1632334801572">
+      <screen x="0" y="23" width="1280" height="730" />
     </state>
+    <state x="254" y="116" key="Vcs.Push.Dialog.v2/0.23.1280.730@0.23.1280.730" timestamp="1632334801572" />
     <state x="254" y="116" key="Vcs.Push.Dialog.v2/0.23.1280.732@0.23.1280.732" timestamp="1632280146626" />
-    <state x="347" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1632334664435">
-      <screen x="0" y="23" width="1280" height="727" />
+    <state x="347" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1632345240437">
+      <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state x="347" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.727@0.23.1280.727" timestamp="1632334664435" />
     <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.729@0.23.1280.729" timestamp="1631734730655" />
+    <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.730@0.23.1280.730" timestamp="1632345240437" />
     <state x="305" y="124" key="search.everywhere.popup" timestamp="1631577219882">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
