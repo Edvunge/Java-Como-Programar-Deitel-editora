@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a680f1f6-fd50-4f40-9588-e25bb1eaf911" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioGeral05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercicioGeral05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ExercicioGeral04">
+  <component name="RunManager" selected="Application.ExercicioGeral05">
     <configuration name="E0x000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E0x000" />
       <module name="java Como Programar Deitel editora" />
@@ -52,8 +52,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExercicioGeral05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioGeral05" />
+      <module name="java Como Programar Deitel editora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioGeral05" />
         <item itemvalue="Application.ExercicioGeral04" />
         <item itemvalue="Application.E0x000" />
         <item itemvalue="Application.ExercicioGeral01" />
@@ -85,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632279621767</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="criate ExercicioGeral05">
+      <created>1632280135185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632280135185</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -98,25 +113,25 @@
     </state>
     <state x="178" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1632279488140" />
     <state x="178" y="23" key="CommitChangelistDialog2/0.23.1280.732@0.23.1280.732" timestamp="1632280133006" />
-    <state width="1210" height="128" key="GridCell.Tab.0.bottom" timestamp="1632276123728">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="151" key="GridCell.Tab.0.bottom" timestamp="1632284504459">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="97" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1632275036377" />
+    <state width="1238" height="151" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1632284504459" />
     <state width="1210" height="128" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1632276123728" />
-    <state width="1210" height="128" key="GridCell.Tab.0.center" timestamp="1632276123727">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="151" key="GridCell.Tab.0.center" timestamp="1632284504457">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="97" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1632275036374" />
+    <state width="1238" height="151" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1632284504457" />
     <state width="1210" height="128" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1632276123727" />
-    <state width="1210" height="128" key="GridCell.Tab.0.left" timestamp="1632276123726">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="151" key="GridCell.Tab.0.left" timestamp="1632284504456">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="97" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1632275036372" />
+    <state width="1238" height="151" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1632284504456" />
     <state width="1210" height="128" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1632276123726" />
-    <state width="1210" height="128" key="GridCell.Tab.0.right" timestamp="1632276123728">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="151" key="GridCell.Tab.0.right" timestamp="1632284504458">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="97" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1632275036375" />
+    <state width="1238" height="151" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1632284504458" />
     <state width="1210" height="128" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1632276123728" />
     <state x="254" y="116" key="Vcs.Push.Dialog.v2" timestamp="1632280146626">
       <screen x="0" y="23" width="1280" height="732" />
