@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a680f1f6-fd50-4f40-9588-e25bb1eaf911" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ExercicioGeral04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercicioGeral04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercicioGeral05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Application.ExercicioGeral04">
     <configuration name="E0x000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
