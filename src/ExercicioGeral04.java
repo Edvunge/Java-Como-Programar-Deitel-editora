@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class ExercicioGeral04 {
     public static void main(String[] args){
 
-        /*
+        /* estes exercicios foram retirados do livro k9 - logica de programação.
         --------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------
         Execícios
         1. Escreva um programa que contenha duas variáveis: precoDoProduto1 e precoDoProduto2.
