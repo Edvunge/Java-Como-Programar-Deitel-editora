@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a680f1f6-fd50-4f40-9588-e25bb1eaf911" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1y3W85Z29HnDgivu9IzYjCNElu5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ExercicioGeral04">
+    <configuration name="E0x000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E0x000" />
+      <module name="java Como Programar Deitel editora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioGeral01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioGeral01" />
+      <module name="java Como Programar Deitel editora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioGeral04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioGeral04" />
+      <module name="java Como Programar Deitel editora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExercicioGeral04" />
+        <item itemvalue="Application.E0x000" />
+        <item itemvalue="Application.ExercicioGeral01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a680f1f6-fd50-4f40-9588-e25bb1eaf911" name="Default Changelist" comment="" />
+      <created>1631480591355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631480591355</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1210" height="128" key="GridCell.Tab.0.bottom" timestamp="1632276123728">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="1238" height="97" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1632275036377" />
+    <state width="1210" height="128" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1632276123728" />
+    <state width="1210" height="128" key="GridCell.Tab.0.center" timestamp="1632276123727">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="1238" height="97" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1632275036374" />
+    <state width="1210" height="128" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1632276123727" />
+    <state width="1210" height="128" key="GridCell.Tab.0.left" timestamp="1632276123726">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="1238" height="97" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1632275036372" />
+    <state width="1210" height="128" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1632276123726" />
+    <state width="1210" height="128" key="GridCell.Tab.0.right" timestamp="1632276123728">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="1238" height="97" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1632275036375" />
+    <state width="1210" height="128" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1632276123728" />
+    <state x="347" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1631734730655">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.729@0.23.1280.729" timestamp="1631734730655" />
+    <state x="305" y="124" key="search.everywhere.popup" timestamp="1631577219882">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1631577219882" />
+  </component>
+</project>
