@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a680f1f6-fd50-4f40-9588-e25bb1eaf911" name="Default Changelist" comment="">
+    <list default="true" id="a680f1f6-fd50-4f40-9588-e25bb1eaf911" name="Default Changelist" comment="update README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,59 +120,31 @@
       <option name="project" value="LOCAL" />
       <updated>1632353950462</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update README.md">
+      <created>1637234073939</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637234073939</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criate ExercicioGeral05" />
     <MESSAGE value="criate ExercicioGeral06" />
-    <option name="LAST_COMMIT_MESSAGE" value="criate ExercicioGeral06" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="178" y="23" key="CommitChangelistDialog2" timestamp="1632353947552">
-      <screen x="0" y="23" width="1280" height="732" />
-    </state>
-    <state x="178" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1632279488140" />
-    <state x="178" y="23" key="CommitChangelistDialog2/0.23.1280.729@0.23.1280.729" timestamp="1632334766747" />
-    <state x="178" y="23" key="CommitChangelistDialog2/0.23.1280.732@0.23.1280.732" timestamp="1632353947552" />
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1632392611706">
-      <screen x="0" y="23" width="1280" height="732" />
-    </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1632353757437" />
-    <state width="1210" height="128" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1632276123728" />
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1632392611706" />
-    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1632392611705">
-      <screen x="0" y="23" width="1280" height="732" />
-    </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1632353757435" />
-    <state width="1210" height="128" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1632276123727" />
-    <state width="1238" height="177" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1632392611705" />
-    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1632392611704">
-      <screen x="0" y="23" width="1280" height="732" />
-    </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1632353757433" />
-    <state width="1210" height="128" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1632276123726" />
-    <state width="1238" height="177" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1632392611704" />
-    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1632392611705">
-      <screen x="0" y="23" width="1280" height="732" />
-    </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1632353757436" />
-    <state width="1210" height="128" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1632276123728" />
-    <state width="1238" height="177" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1632392611705" />
-    <state x="254" y="116" key="Vcs.Push.Dialog.v2" timestamp="1632353962360">
-      <screen x="0" y="23" width="1280" height="732" />
-    </state>
-    <state x="254" y="116" key="Vcs.Push.Dialog.v2/0.23.1280.730@0.23.1280.730" timestamp="1632334801572" />
-    <state x="254" y="116" key="Vcs.Push.Dialog.v2/0.23.1280.732@0.23.1280.732" timestamp="1632353962360" />
-    <state x="347" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1632345240437">
-      <screen x="0" y="23" width="1280" height="730" />
-    </state>
-    <state x="347" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.727@0.23.1280.727" timestamp="1632334664435" />
-    <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.729@0.23.1280.729" timestamp="1631734730655" />
-    <state x="347" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.730@0.23.1280.730" timestamp="1632345240437" />
-    <state x="305" y="124" key="search.everywhere.popup" timestamp="1631577219882">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="305" y="124" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1631577219882" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
 </project>
