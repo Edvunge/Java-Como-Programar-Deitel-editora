@@ -18,10 +18,12 @@ R)  Os cálculos normalmente são realizados pelos operadores aritmeticos.
 d) Os operadores aritméticos com a mesma precedência da multiplicação são ________ e ________.
 R)
 
-e) Quando parênteses em uma expressão aritmética estão aninhados, o conjunto de parênteses ________ é avaliado primeiro.
+e) Quando parênteses em uma expressão aritmética estão aninhados,
+o conjunto de parênteses ________ é avaliado primeiro.
 R)
 
-f) Uma posição na memória do computador que pode conter valores diferentes várias vezes ao longo da execução de um programa é chamada ________.
+f) Uma posição na memória do computador que pode conter
+valores diferentes várias vezes ao longo da execução de um programa é chamada ________.
 R)
 
 ------------------------------------------------
@@ -43,7 +45,8 @@ c) Utilizar um comentário para afirmar que um programa executa um cálculo de e
 
 2.9 Determine se cada uma das seguintes afirmações é verdadeira ou falsa. Se falsa, explique por quê.
 a) Operadores Java são avaliados da esquerda para a direita. = ( verdadeira )
-b) Os seguintes nomes são todos de variável válidos: _under_bar_, m928134, t5, j7, her_sales$, his_$account_total, a, b$, c, zez2. = ( Falsa )
+b) Os seguintes nomes são todos de variável válidos: _under_bar_, m928134, t5, j7, her_sales$,
+his_$account_total, a, b$, c, zez2. = ( Falsa )
 c) Uma expressão aritmética Java válida sem parênteses é avaliada da esquerda para a direita. = ( verdadeiro )
 d) Os seguintes nomes são todos de variável inválidos: 3g, 87, 67h2, h22 e 2h. = ( verdadeiro )
 
@@ -76,7 +79,8 @@ e) y = a * (x * x * x) + 7;
 f) y = a * x * (x * x + 7);
 
 ------------------------------------------------
-2.13 Declare a ordem de avaliação dos operadores em cada uma das seguintes instruções Java e mostre o valor de x depois que cada instrução é realizada:
+2.13 Declare a ordem de avaliação dos operadores em cada uma das seguintes instruções Java e mostre o valor de x
+depois que cada instrução é realizada:
 a) x = 7 + 3 * 6 / 2 - 1;
 b) x = 2 % 2 + 2 * 2 - 2 / 2;
 c) x = (3 * 9 * (3 + (9 * 3 / (3))));

@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class ExercicioGeral {
     public static void main(String[] args){
+
         /*
  2.3 Escreva instruções para realizar cada uma das tarefas a seguir:
 a) Declare que as variáveis c, thisIsAVariable, q76354 e number serão do tipo int.
@@ -14,21 +15,16 @@ e) Imprima “This is a Java program" em duas linhas na janela de comando. A pri
 System.out.printf e dois especificadores de formato %s.
 f) Se a variável number não for igual a 7, exiba “The variable number is not equal to 7".
 */
+
         Scanner input = new Scanner(System.in);
 
         int c;
-        int thisIsAVarieble;
-        int q76354;
-
         System.out.print("introduza um numero inteiro: ");
         c  = input.nextInt();
 
         int value = c;
-
         System.out.println(" This is a java program ");
-
         System.out.println("This is a Java program %s");
-
 
         if(c != 7){
             System.out.println("The variable number is not equal to 7");
@@ -48,25 +44,19 @@ j) Compute o produto dos três inteiros contidos nas variáveis x, y e z e atrib
 k) Use System.out.printf para exibir a mensagem “Product is” seguida pelo valor da variável result.
 */
 
-        System.out.println("---------------------------------------------------------------------------------------");
+        System.out.println("-----------------------------------------------------");
         int number1;
-        int x;
-        int number2;
-        int y;
-        int number3;
-        int z;
-        int number4;
-        int result;
+        int x; int number2;
+        int y; int number3;
+        int z; int result;
 
         System.out.print("introduza um numero inteiro: ");
         number1 = input.nextInt();
         x = number1;
 
-
         System.out.print("introduza um numero inteiro: ");
         number2 = input.nextInt();
         y = number2;
-
 
         System.out.print("introduza um numero inteiro: ");
         number3 = input.nextInt();
@@ -74,11 +64,9 @@ k) Use System.out.printf para exibir a mensagem “Product is” seguida pelo va
 
         result = x + y + z;
         System.out.println("Product is: " + result);
-
-        System.out.println("---------------------------------------------------------------------------------------");
+        System.out.println("-----------------------------------------------------");
 
         //2.5, elabore um programa completo que calcule e imprima o produto de três inteiros.
-
         int numberOne;
         System.out.print("introduza o number one integer: ");
         numberOne = input.nextInt();
