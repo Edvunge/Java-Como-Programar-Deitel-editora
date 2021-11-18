@@ -1,3 +1,5 @@
+package EntradaSaidaOperadores;
+
 import java.util.Scanner;
 
 public class ExercicioGeral01 {
@@ -126,7 +128,7 @@ Obese: 30 or greater
             System.out.println("you are OBESE sorry! ");
         }
 
-System.out.println("==================================================");
+        System.out.println("==================================================");
 
  /*
 2.34 Utilize a internet para descobrir a população mundial atual e a taxa de crescimento demográfico mundial anual.

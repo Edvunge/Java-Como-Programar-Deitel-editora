@@ -1,3 +1,5 @@
+package EntradaSaidaOperadores;
+
 import java.util.Scanner;
 
 public class ExercicioGeral06 {
@@ -10,7 +12,8 @@ public class ExercicioGeral06 {
         vai ser preciso dar um desconto de 10% em cima do subtotal, mas se for menor que 10, voce nao aplica desconto algum.
 
 
-            algoritmo do desconto.////////////////////////////////////////////////////////////////
+            algoritmo do desconto.
+            //////////////////////////
          desconto 10% =======  desconsto = valorProduto * 10% / 100      valorProduto - desconto
 
 
@@ -28,9 +31,7 @@ public class ExercicioGeral06 {
         Double referentePercentual;
         Double valorTotalFinal;
 
-
         Scanner input = new Scanner(System.in);
-
 
         System.out.print("introduza o valor do produto: ");
         valorProduto = input.nextDouble();
@@ -38,9 +39,7 @@ public class ExercicioGeral06 {
         System.out.print("introduza a quantidade do produto: ");
         quantidadeProduto = input.nextDouble();
 
-
         Double subtotal = valorProduto * quantidadeProduto;
-
 
         if(quantidadeProduto > 10){
             desconto = ( valorProduto * 10 ) / 100;
@@ -51,7 +50,7 @@ public class ExercicioGeral06 {
             System.out.println(" nenhum desconto foi aplicado. ");
         }
 
-       valorTotalFinal = subtotal - desconto;
+        valorTotalFinal = subtotal - desconto;
 
         System.out.println("valor final sera : " + valorTotalFinal );
     }

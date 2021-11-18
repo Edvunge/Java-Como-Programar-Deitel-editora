@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a680f1f6-fd50-4f40-9588-e25bb1eaf911" name="Default Changelist" comment="general update README.md" />
+    <list default="true" id="a680f1f6-fd50-4f40-9588-e25bb1eaf911" name="Default Changelist" comment="general update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntradaSaidaOperadores/ExercicioGeral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntradaSaidaOperadores/ExercicioGeral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntradaSaidaOperadores/ExercicioGeral05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntradaSaidaOperadores/ExercicioGeral05.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,48 +36,78 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ExercicioGeral06">
-    <configuration name="E0x000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E0x000" />
+  <component name="RunManager" selected="Application.ExercicioGeral00">
+    <configuration name="ExercicioGeral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntradaSaidaOperadores.ExercicioGeral" />
       <module name="java Como Programar Deitel editora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EntradaSaidaOperadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioGeral00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntradaSaidaOperadores.ExercicioGeral00" />
+      <module name="java Como Programar Deitel editora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EntradaSaidaOperadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ExercicioGeral01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioGeral01" />
+      <option name="MAIN_CLASS_NAME" value="EntradaSaidaOperadores.ExercicioGeral01" />
       <module name="java Como Programar Deitel editora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EntradaSaidaOperadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioGeral04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioGeral04" />
+    <configuration name="ExercicioGeral02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntradaSaidaOperadores.ExercicioGeral02" />
       <module name="java Como Programar Deitel editora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EntradaSaidaOperadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioGeral05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioGeral05" />
+    <configuration name="ExercicioGeral03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntradaSaidaOperadores.ExercicioGeral03" />
       <module name="java Como Programar Deitel editora" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExercicioGeral06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioGeral06" />
-      <module name="java Como Programar Deitel editora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EntradaSaidaOperadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExercicioGeral06" />
-        <item itemvalue="Application.ExercicioGeral05" />
-        <item itemvalue="Application.ExercicioGeral04" />
-        <item itemvalue="Application.E0x000" />
+        <item itemvalue="Application.ExercicioGeral00" />
+        <item itemvalue="Application.ExercicioGeral" />
+        <item itemvalue="Application.ExercicioGeral03" />
+        <item itemvalue="Application.ExercicioGeral02" />
         <item itemvalue="Application.ExercicioGeral01" />
       </list>
     </recent_temporary>
@@ -131,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637235001272</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="general update">
+      <created>1637238130947</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637238130947</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +192,7 @@
     <MESSAGE value="criate ExercicioGeral06" />
     <MESSAGE value="update README.md" />
     <MESSAGE value="general update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="general update README.md" />
+    <MESSAGE value="general update" />
+    <option name="LAST_COMMIT_MESSAGE" value="general update" />
   </component>
 </project>

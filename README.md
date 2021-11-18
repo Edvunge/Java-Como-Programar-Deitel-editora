@@ -36,7 +36,7 @@ vou resolver cada parte destes exercicios aqui composto, tentando detalhar o max
 
 
 
-- [ ] Introdução a aplicativos Java – 2 entrada/saída e operadores
+- [x] Introdução a aplicativos Java – 2 entrada/saída e operadores
 
 
 

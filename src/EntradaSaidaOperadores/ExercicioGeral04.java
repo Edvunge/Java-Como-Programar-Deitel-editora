@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package EntradaSaidaOperadores;
 
+import java.util.Scanner;
 
 public class ExercicioGeral04 {
     public static void main(String[] args){
@@ -31,9 +32,7 @@ public class ExercicioGeral04 {
             System.out.println(" o produto é o mais caro. " + precoDoProduto2 );
         }
 
-
         /*
-
         --------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------
 
         2. Escreva um programa que contenha uma variável:
@@ -60,9 +59,5 @@ public class ExercicioGeral04 {
         } else {
             System.out.println(" Boa noite. ");
         }
-
-
-
-
     }
 }
