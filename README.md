@@ -23,7 +23,10 @@ vou resolver cada parte destes exercicios aqui composto, tentando detalhar o max
 	
 ![java image!](IMG_2634.jpg "java log")
 
-
+<br>
+<br>
+<br>
+<br>
 
 - [x] Introdução a computadores, 1 internet e Java
 
