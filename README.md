@@ -25,8 +25,12 @@ vou resolver cada parte destes exercicios aqui composto, tentando detalhar o max
 
 <br>
 <br>
+
+ #  checklist of tasks done
+
 <br>
 <br>
+
 
 - [x] Introdução a computadores, 1 internet e Java
 
