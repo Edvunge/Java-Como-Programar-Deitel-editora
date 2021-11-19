@@ -148,6 +148,12 @@ uma seta e um losango utilizando asteriscos (*), como segue:
         System.out.printf("%n");
         System.out.printf("       *%n      ****%n     ******%n       *%n       *%n       *%n       *%n       *");
 
+        // LOSANGO
+        System.out.printf("%n");
+        System.out.printf("------------------------");
+        System.out.printf("%n");
+        System.out.printf("        *%n       *  *%n     *      *%n    *         *%n   *            *%n   *            *%n     *         *%n       *     *%n          *%n");
+
 
     }
 }
