@@ -1,30 +1,79 @@
 package EntradaSaidaOperadores;
 
+import java.util.Scanner;
+
 public class ExercicioGeral03 {
     public static void main(String[] args){
         /*
-       Questões ------------------------------------------------------------------
-2.23 O que o seguinte código imprime? System.out.printf("%s%n%s%n%s%n", "*", "***", "*****");
-
+       Questões
 
 2.24 (Inteiros maiores e menores) Escreva um aplicativo que leia cinco inteiros,
 além de determinar e imprimir o maior e o menor inteiro no grupo.
 Utilize somente as técnicas de programação que você aprendeu neste capítulo.
+*/
+        int number1;
+        int number2;
+        int number3;
+        int number4;
+        int number5;
 
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("introduza um numero: ");
+        number1  = input.nextInt();
+
+        System.out.print("introduza um outro numero: ");
+        number2  = input.nextInt();
+
+        System.out.print("introduza um numero: ");
+        number3  = input.nextInt();
+
+        System.out.print("introduza um outro numero: ");
+        number4  = input.nextInt();
+
+        System.out.print("introduza um outro numero: ");
+        number5  = input.nextInt();
+
+        // busca o maior numero.
+        if (number1 > number2 && number1 > number3 && number1 > number4 && number1 > number5){
+            System.out.println(" é o maior " + number1 );
+        } else if (number2 > number1 && number2 > number3 && number2 > number4 && number2 > number5){
+            System.out.println(" é o maior " + number2 );
+        } else if (number3 > number1 && number3 > number2 && number3 > number4 && number3 > number5){
+            System.out.println(" é o maior " + number3 );
+        } else if (number4 > number1 && number4 > number2 && number4 > number3 && number4 > number5){
+            System.out.println(" é o maior " + number4 );
+        } else if (number5 > number1 && number5 > number2 && number5 > number3 && number5 > number4){
+            System.out.println("  é o maior " + number5 );
+        } else {
+            System.out.println(" são iguais. ");
+        }
+
+        System.out.printf("\n\n\n");
+
+        // busca o menor numero.
+        if (number1 < number2 && number1 < number3 && number1 < number4 && number1 < number5){
+            System.out.printf("%d é o menor",number1 );
+        } else if (number2 < number1 && number2 < number3 && number2 < number4 && number2 < number5){
+            System.out.printf("%d é o menor",number2 );
+        } else if (number3 < number1 && number3 < number2 && number3 < number4 && number3 < number5){
+            System.out.printf("%d é o menor",number3 );
+        } else if (number4 < number1 && number4 < number2 && number4 < number3 && number4 < number5){
+            System.out.printf("%d é o menor",number4 );
+        } else if (number5 < number1 && number5 < number2 && number5 < number3 && number5 < number4){
+            System.out.printf("%d é o menor",number5 );
+        } else {
+            System.out.println(" são iguais. ");
+        }
+
+
+  /*
 2.25 (Ímpar ou par) Escreva um aplicativo que leia um inteiro, além de determinar e imprimir se ele é ímpar ou par.
 [Dica: utilize o operador de resto. Um número par é um múltiplo de 2. Qualquer múltiplo de 2 deixa um resto 0 quando dividido por 2.]
 
 
 2.26 (Múltiplos) Escreva um aplicativo que leia dois inteiros, além de determinar se o primeiro é um múltiplo do segundo e imprimir o resul- tado.
 [Dica: utilize o operador de resto.]
-
-
-2.27 (Padrão de tabuleiro de damas de asteriscos) Escreva um aplicativo que exiba um padrão de tabuleiro de damas, como mostrado a seguir:
-
-* * * * * * * * * * * * * * * *
-* * * * * * * * * * * * * * * *
-* * * * * * * * * * * * * * * *
-* * * * * * * * * * * * * * *
 
 
 2.28 (Diâmetro, circunferência e área de um círculo) Eis uma prévia do que veremos mais adiante.
