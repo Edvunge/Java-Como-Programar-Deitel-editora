@@ -4,13 +4,16 @@ import java.util.Scanner;
 
 public class ExercicioGeral03 {
     public static void main(String[] args){
+
+
+
         /*
        Questões
 
 2.24 (Inteiros maiores e menores) Escreva um aplicativo que leia cinco inteiros,
 além de determinar e imprimir o maior e o menor inteiro no grupo.
 Utilize somente as técnicas de programação que você aprendeu neste capítulo.
-*/
+
         int number1;
         int number2;
         int number3;
@@ -34,7 +37,7 @@ Utilize somente as técnicas de programação que você aprendeu neste capítulo
         System.out.print("introduza um outro numero: ");
         number5  = input.nextInt();
 
-        // busca o maior numero.
+         busca o maior numero.
         if (number1 > number2 && number1 > number3 && number1 > number4 && number1 > number5){
             System.out.println(" é o maior " + number1 );
         } else if (number2 > number1 && number2 > number3 && number2 > number4 && number2 > number5){
@@ -51,7 +54,7 @@ Utilize somente as técnicas de programação que você aprendeu neste capítulo
 
         System.out.printf("\n\n\n");
 
-        // busca o menor numero.
+         busca o menor numero.
         if (number1 < number2 && number1 < number3 && number1 < number4 && number1 < number5){
             System.out.printf("%d é o menor",number1 );
         } else if (number2 < number1 && number2 < number3 && number2 < number4 && number2 < number5){
@@ -65,17 +68,53 @@ Utilize somente as técnicas de programação que você aprendeu neste capítulo
         } else {
             System.out.println(" são iguais. ");
         }
+        */
 
 
   /*
 2.25 (Ímpar ou par) Escreva um aplicativo que leia um inteiro, além de determinar e imprimir se ele é ímpar ou par.
 [Dica: utilize o operador de resto. Um número par é um múltiplo de 2. Qualquer múltiplo de 2 deixa um resto 0 quando dividido por 2.]
 
+        int number;
 
-2.26 (Múltiplos) Escreva um aplicativo que leia dois inteiros, além de determinar se o primeiro é um múltiplo do segundo e imprimir o resul- tado.
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("introduza um numero inteiro: ");
+        number  = input.nextInt();
+
+        if (number %2 == 0){
+            System.out.printf("%d o numero: é PAR ", number);
+        } else {
+            System.out.printf("%d o numero: é IMPAR ", number);
+        }
+        */
+
+        /*
+2.26 (Múltiplos) Escreva um aplicativo que leia dois inteiros, além de determinar se o primeiro é um múltiplo do segundo e
+imprimir o resul- tado.
 [Dica: utilize o operador de resto.]
+*/
 
+        int number6;
+        int number7;
 
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("introduza um numero inteiro: ");
+        number6  = input.nextInt();
+
+        System.out.print("introduza um outro numero inteiro: ");
+        number7  = input.nextInt();
+
+        double restoDiv = ( number6 / number7 );
+
+        if ( restoDiv %3 == 0 ){
+            System.out.println("São numeros multiplos:");
+        } else {
+            System.out.printf(" não são números multiplos ");
+        }
+
+/*
 2.28 (Diâmetro, circunferência e área de um círculo) Eis uma prévia do que veremos mais adiante.
 Neste capítulo, você aprendeu sobre inteiros e o tipo int.
 O Java também pode representar números de pontos flutuantes que contêm pontos de fração decimal, como 3,14159.
