@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ExercicioGeral01 {
     public static  void main(String[] args){
         /*
-           Questões ------------------------------------------------------------------
+           Questões
 2.32 Escreva um programa que insira cinco números,
 além de determinar e imprimir quantos negativos, quantos positivos e quantos zeros foram inseridos.
 */
