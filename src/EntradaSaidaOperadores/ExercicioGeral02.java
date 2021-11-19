@@ -81,14 +81,6 @@ Utilize as técnicas mostradas na Figura 2.15.
 exiba a soma, média, produto e os números menores e maiores. Utilize as técnicas mostradas na Figura 2.15.
 [Observação: o cálculo da média neste exercício deve resultar em uma representação de inteiro.
 Assim, se a soma dos valores for 7, a média deverá ser 2, não 2,3333...]
-
-public static void main (String [] args) {
-  // lançando
-  // você precisa f para dizer ao java seu float!
-  float taxa = 19,98f;
-  int IntRate = taxa (int);
-  System.out.println ("Valor" + taxa + "convertido em int =" + intRate);
-}
 */
         System.out.printf("\n");
 
@@ -140,42 +132,22 @@ public static void main (String [] args) {
 2.18 (Exibindo formas com asteriscos) Escreva um aplicativo que exiba uma caixa, uma elipse,
 uma seta e um losango utilizando asteriscos (*), como segue:
 */
-        // caixa
+        // CAIXA
         System.out.printf("------------------------");
         System.out.printf("%n");
         System.out.printf("* * * * * * *%n*           *%n*           *%n*           *%n* * * * * * *%n");
 
-        // elipse
+        // ELIPSE
         System.out.printf("------------------------");
         System.out.printf("%n");
         System.out.printf("    * * *  %n *        *%n*          *%n*          *%n*          *%n *        * %n   * * * %n");
 
-/*
-2.19 O que o seguinte código imprime?
-System.out.printf("*%n**%n***%n****%n*****%n");
 
-2.20 O que o seguinte código imprime?
-System.out.println("*"); System.out.println("***");
-System.out.println("*****");
-System.out.println("****");
-System.out.println("**");
+        // SETA
+        System.out.printf("------------------------");
+        System.out.printf("%n");
+        System.out.printf("       *%n      ****%n     ******%n       *%n       *%n       *%n       *%n       *");
 
 
-2.21 O que o seguinte código imprime?
-System.out.print("*");
-System.out.print("***");
-System.out.print("*****");
-System.out.print("****");
-System.out.println("**");
-
-
-2.22 O que o seguinte código imprime?
-System.out.print("*");
-System.out.println("***");
-System.out.println("*****");
-System.out.print("****");
-System.out.println("**");
-
-*/
     }
 }
